@@ -1,3 +1,3 @@
 # apnaghar-demo
 This is first repository<br>
-Author:Muklhtar Azeem
+Author:Mukhtar (Apna Ghar)
